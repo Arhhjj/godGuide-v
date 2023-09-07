@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\scripts\\common\\config\\En.ts"],"names":[],"mappings":";;;;;;AAAA,kBAAe;IACX,IAAI,EAAE,SAAS;IACf,KAAK,EAAE,gBAAgB;IACvB,KAAK,EAAE,kCAAkC;CAC5C,CAAC","file":"","sourceRoot":"/","sourcesContent":["export default {\r\n    lang: \"English\",\r\n    text1: \"number: %{num}\",\r\n    text2: \"param1: %{arg1}, param2: %{arg2}\"\r\n};\r\n"]}

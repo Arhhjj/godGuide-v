@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "签到",
+    "texture": "dbc0004a-6d34-413a-859e-b2c97ab914b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      168
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

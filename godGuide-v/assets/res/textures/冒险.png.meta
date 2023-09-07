@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "78aa000c-60b1-4754-8979-016c566172f8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "冒险": {
+      "ver": "1.0.4",
+      "uuid": "8cc29c15-4091-4086-a0ce-213a4ce44d1a",
+      "rawTextureUuid": "78aa000c-60b1-4754-8979-016c566172f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 168,
+      "rawWidth": 140,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

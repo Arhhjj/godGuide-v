@@ -1,0 +1,112 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1936,
+      "height": 1056,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 232,
+            "height": 940,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ]
+          },
+          {
+            "width": 335,
+            "height": 940,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ]
+          },
+          {
+            "width": 325,
+            "height": 940,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "assets"
+            ]
+          },
+          {
+            "width": 1019,
+            "height": 940,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 1019,
+                "height": 661,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "scene"
+                ]
+              },
+              {
+                "width": 1019,
+                "height": 276,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "inspector",
+        "cocos-services",
+        "assets",
+        "scene",
+        "console",
+        "timeline",
+        "game-window"
+      ]
+    },
+    "worker": {}
+  },
+  "panels": {
+    "project-settings": {
+      "x": 672,
+      "y": 240,
+      "width": 600,
+      "height": 565
+    },
+    "simulator-debugger": {
+      "x": 552,
+      "y": 190,
+      "width": 816,
+      "height": 639
+    },
+    "preferences": {
+      "x": 672,
+      "y": 240,
+      "width": 600,
+      "height": 565
+    },
+    "sprite-editor": {
+      "x": 702,
+      "y": 240,
+      "width": 516,
+      "height": 539
+    }
+  },
+  "panelLabelWidth": {}
+}

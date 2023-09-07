@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\scripts\\common\\config\\Zh.ts"],"names":[],"mappings":";;;;;;AAAA,kBAAe;IACX,IAAI,EAAE,IAAI;IACV,KAAK,EAAE,WAAW;IAClB,KAAK,EAAE,4BAA4B;CACtC,CAAC","file":"","sourceRoot":"/","sourcesContent":["export default {\r\n    lang: \"中文\",\r\n    text1: \"数字：%{num}\",\r\n    text2: \"参数1: %{arg1}, 参数2: %{arg2}\"\r\n};\r\n"]}

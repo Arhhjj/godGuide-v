@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/async": "^3.2.20",
+    "async": "^3.2.4"
+  }
+}

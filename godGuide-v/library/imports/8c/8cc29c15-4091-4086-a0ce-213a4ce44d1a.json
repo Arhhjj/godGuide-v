@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "冒险",
+    "texture": "78aa000c-60b1-4754-8979-016c566172f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      168
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

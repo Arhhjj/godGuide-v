@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\scripts\\common\\runtime\\EnumIndex.ts"],"names":[],"mappings":";;;;;;;AAEA,IAAY,WAGX;AAHD,WAAY,WAAW;IACnB,8BAAe,CAAA;IACf,0BAAW,CAAA;AACf,CAAC,EAHW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAGtB","file":"","sourceRoot":"/","sourcesContent":["\r\n\r\nexport enum EGameStatus {\r\n    START = \"START\",\r\n    END = \"END\",\r\n}"]}
